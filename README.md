@@ -1,6 +1,6 @@
 # Hello,I'm MOU
 
-![](http://blog.mou.best/picture/touxiang2.png)
+![](https://kyun.ltyuanfang.cn/tc/2020/09/02/06bcb167ff840.jpg)
 
 ---
 
