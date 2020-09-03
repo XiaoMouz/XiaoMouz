@@ -4,7 +4,7 @@
 
 ---
 
-#### User List
+#### User Info
 
 ---
 
