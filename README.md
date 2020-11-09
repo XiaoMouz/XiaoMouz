@@ -1,6 +1,6 @@
 # Hello,I'm MOU
 
-![Favicon](https://kyun.ltyuanfang.cn/tc/2020/09/02/06bcb167ff840.jpg)
+![](https://kyun.ltyuanfang.cn/tc/2020/09/02/06bcb167ff840.jpg)
 
 ---
 
