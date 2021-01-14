@@ -1,6 +1,6 @@
 # Hello,I'm MOU
 
-![](https://gitee.com/xiaomouz/xiaomouz/raw/master/upload/images/b1bfc9aeb2cfd.jpg)
+![](https://gitee.com/xiaomouz/xiaomouz/raw/master/upload/images/06bcb167ff840.jpg)
 
 ---
 
