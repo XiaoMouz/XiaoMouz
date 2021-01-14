@@ -1,6 +1,6 @@
 # Hello,I'm MOU
 
-![](https://kyun.ltyuanfang.cn/tc/2020/09/02/06bcb167ff840.jpg)
+![](https://gitee.com/xiaomouz/xiaomouz/raw/master/upload/images/b1bfc9aeb2cfd.jpg)
 
 ---
 
