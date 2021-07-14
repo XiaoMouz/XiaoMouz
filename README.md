@@ -1,9 +1,5 @@
-# Hi there👋,I'm MOU
-
 ![](https://user-images.githubusercontent.com/54032212/125687931-a207bb03-9160-42e2-b22e-713040ca8587.png)
 
-
-# User Info
 
 ## 自我介绍
 
