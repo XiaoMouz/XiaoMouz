@@ -1,6 +1,7 @@
 # Hi there👋,I'm MOU
 
-![](https://gitee.com/xiaomouz/xiaomouz/raw/master/upload/images/06bcb167ff840.jpg)
+![](https://user-images.githubusercontent.com/54032212/125687931-a207bb03-9160-42e2-b22e-713040ca8587.png)
+
 
 # User Info
 
