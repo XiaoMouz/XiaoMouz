@@ -14,11 +14,14 @@
 > - 实则行为举止和正常人别无二致，只是别人的女朋友换成了男的而已，相对于普通人只有这些变化而已
 > - 并不是码农或者coder，也没参加过比赛，普普通通的一个人，写着自己想写的代码
 
-## 网站
+## MySelf Stats
 
-<center>
-![XiaoMouz's GitHub stats](https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt)
-[![Top Langs](https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact" />
+</a>
 
 [主页](https://mou.best)
 
