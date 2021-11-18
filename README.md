@@ -17,16 +17,11 @@
 ## MySelf Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact" />
 </a>
 
-[主页](https://mou.best)
+<a href="https://mou.best" align="left">博客</a><br><a href="https://about.mou.best" align="left">About Me</a>
 
-[博客](https://mouz.xyz)
-
-[About Me](https://about.mou.best)
-
-</center>
