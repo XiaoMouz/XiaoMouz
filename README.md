@@ -17,6 +17,8 @@
 ## 网站
 
 <center>
+![XiaoMouz's GitHub stats](https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt)
+[![Top Langs](https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 
 [主页](https://mou.best)
 
