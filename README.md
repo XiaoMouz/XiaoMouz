@@ -17,8 +17,8 @@
 ## MySelf Stats
 
 <a href="https://mou.best">
-  <img align="right" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" />
+  <img align="right" style="max-width: 70%;" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://about.mou.best">
-   <img align="left" src="https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact" />
+   <img align="left" style="max-width: 70%;" src="https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact" />
 </a
