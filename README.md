@@ -1,8 +1,8 @@
-# Hi,There👋
+### 👋Hi,there
+
 [![](https://user-images.githubusercontent.com/54032212/125687931-a207bb03-9160-42e2-b22e-713040ca8587.png)](https://about.mou.best)
 
-
-## 自 我 介 绍
+### 💤Who am I
 
 很懒的一个人，做事老留尾巴，经常做不全，在读学生，还是个臭打游戏的，主要玩FPS射击游戏，比如Apex，战地，战术小队什么的
 
@@ -14,11 +14,13 @@
 > - 不是coder，没参加过比赛，写着自己想写的代码，未来从事相关行业纯属因为钱多
 > - 因为钱多才好实现梦想，如果30岁前没能实现梦想我就原地消失
 
-## MySelf Stats
+### 🔷My Stats
 
 <a href="https://mou.best">
-  <img align="right" style="max-width: 70%;" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://about.mou.best">
-   <img align="left" style="max-width: 70%;" src="https://my-readmqe-stats.vercel.app/api/top-langs/?username=XiaoMouz&layout=compact" />
-</a
+  <img style="max-width: 70%;" src="https://my-readmqe-stats.vercel.app/api?username=XiaoMouz&show_icons=true&theme=cobalt" /></a>
+
+### 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
