@@ -1,13 +1,10 @@
 # Hi,There👋
-![](https://user-images.githubusercontent.com/54032212/125687931-a207bb03-9160-42e2-b22e-713040ca8587.png)
+[![](https://user-images.githubusercontent.com/54032212/125687931-a207bb03-9160-42e2-b22e-713040ca8587.png)](https://about.mou.best)
 
 
 ## 自 我 介 绍
 
 很懒的一个人，做事老留尾巴，经常做不全，在读学生，还是个臭打游戏的，主要玩FPS射击游戏，比如Apex，战地，战术小队什么的
-
-[关于我](http://about.mou.best)页面中的自我介绍以及个人风格方面写的差不多了
-
 
 > - 对未来没有信心但是还是想追求自己所想的生活与居所，对着很多事物依旧抱有幻想罢了
 > - 重度二次元正太少年控，谁没有自己喜欢的事物呢
