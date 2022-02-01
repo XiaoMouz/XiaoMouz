@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://mouz.xyz/index.php/feed/"
+          feed_list: "http://mouz.xyz/index.php/feed/"
           template: "[$randomEmoji(🥅,🔥,💫,🚀,⚡)$title]($url)"
           commit_message: 🚀This commit by GithubAction push
           committer_username: Github Action-XiaoMouz
