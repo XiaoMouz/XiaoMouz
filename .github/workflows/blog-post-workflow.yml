@@ -9,13 +9,11 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://mouz.xyz/index.php/feed/"
-          template: [$randomEmoji(🥅,🔥,💫,🚀,⚡)$title]($url)
-          commit_message: 🚀This commit by GithubAction push
-          committer_username: Github Action-XiaoMouz
-          committer_email: i@mou.best
+       - uses: actions/checkout@v2
+       - uses: gautamkrishnar/blog-post-workflow@master
+         with:
+           feed_list: "https://mouz.xyz/index.php/feed/"
+           template: [$randomEmoji(🥅,🔥,💫,🚀,⚡)$title]($url)
+           commit_message: 🚀This commit by GithubAction push
+           committer_username: Github Action-XiaoMouz
+           committer_email: i@mou.best
