@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://mouz.xyz/index.php/feed/"
-          template: "- [$randomEmoji(🥅,🔥,💫,🚀,⚡) $title]($url) $newline"
+          template: "$newline- [$randomEmoji(🥅,🔥,💫,🚀,⚡) $title]($url) $newline"
           commit_message: 🚀This commit by GithubAction push
           committer_username: Github Action-XiaoMouz
           committer_email: i@mou.best
