@@ -28,5 +28,5 @@
 - [📌 C#面向对象笔记①](https://mouz.xyz/index.php/archives/287/)
 - [📄 如何在不使用代理的情况下解决连接与Github缓慢的问题](https://mouz.xyz/index.php/archives/281/)
 - [✏️ Unturned 3.21.17.0 重大更新中译](https://mouz.xyz/index.php/archives/272/)
-- [👏 记一次.Net SDK失效](https://mouz.xyz/index.php/archives/259/)<!-- BLOG-POST-LIST:END -->
+- [✏️ 记一次.Net SDK失效](https://mouz.xyz/index.php/archives/259/)<!-- BLOG-POST-LIST:END -->
 
