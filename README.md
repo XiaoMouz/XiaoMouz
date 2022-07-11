@@ -1,5 +1,3 @@
-> **本人近期遇到精神问题因此或许需要暂停Github活动一段时间，如有需要联系suki-mou@qq.com谢谢**
-
 ### 👋Hi,there
 
 [![](https://user-images.githubusercontent.com/54032212/125687931-a207bb03-9160-42e2-b22e-713040ca8587.png)](https://about.mou.best)
