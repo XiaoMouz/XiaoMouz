@@ -24,9 +24,9 @@
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🥅 Hadoop部署踩坑](https://mouz.xyz/index.php/archives/301/)
-- [📌 C#面向对象笔记③-Final](https://mouz.xyz/index.php/archives/294/)
-- [📄 C#面向对象笔记②](https://mouz.xyz/index.php/archives/290/)
-- [✏️ C#面向对象笔记①](https://mouz.xyz/index.php/archives/287/)
-- [✏️ 如何在不使用代理的情况下解决连接与Github缓慢的问题](https://mouz.xyz/index.php/archives/281/)<!-- BLOG-POST-LIST:END -->
+- [🥅 前几天修手机的小踩坑，以及 USB 识别失败可行的解决方案](https://mouz.xyz/index.php/archives/311/)
+- [📌 Hadoop部署踩坑](https://mouz.xyz/index.php/archives/301/)
+- [📄 C#面向对象笔记③-Final](https://mouz.xyz/index.php/archives/294/)
+- [✏️ C#面向对象笔记②](https://mouz.xyz/index.php/archives/290/)
+- [✏️ C#面向对象笔记①](https://mouz.xyz/index.php/archives/287/)<!-- BLOG-POST-LIST:END -->
 
