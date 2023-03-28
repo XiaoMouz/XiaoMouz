@@ -24,9 +24,9 @@
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🥅 Pixel Buds Pro 使用体验](https://mouz.xyz/archives/360/)
-- [📌 啥B宝塔由于缺少 tools.js 出现不加载网站管理、数据库管理等页面的情况解决方案](https://mouz.xyz/archives/349/)
-- [📄 前几天修手机的小踩坑，以及 USB 识别失败可行的解决方案](https://mouz.xyz/archives/311/)
-- [✏️ Hadoop部署踩坑](https://mouz.xyz/archives/301/)
-- [✏️ C#面向对象笔记③-Final](https://mouz.xyz/archives/294/)<!-- BLOG-POST-LIST:END -->
+- [🥅 啥B宝塔由于缺少 tools.js 出现不加载网站管理、数据库管理等页面的情况解决方案](https://mouz.xyz/index.php/archives/349/)
+- [📌 前几天修手机的小踩坑，以及 USB 识别失败可行的解决方案](https://mouz.xyz/index.php/archives/311/)
+- [📄 Hadoop部署踩坑](https://mouz.xyz/index.php/archives/301/)
+- [✏️ C#面向对象笔记③-Final](https://mouz.xyz/index.php/archives/294/)
+- [✏️ C#面向对象笔记②](https://mouz.xyz/index.php/archives/290/)<!-- BLOG-POST-LIST:END -->
 
