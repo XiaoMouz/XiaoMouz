@@ -14,7 +14,7 @@
 > - 不是coder，没参加过比赛，写着自己想写的代码，未来从事相关行业纯属因为钱多
 > - 因为钱多才好实现梦想，如果30岁前没能实现梦想我就原地消失
 
-- [🌟 Star List(have fun~)](https://github.com/XiaoMouz?tab=stars)
+- [🌟 Star List(have fun~)](https://github.com/XiaoMouz?tab=stars)&nbsp;&nbsp;<a rel="me" href="https://m.mou.best/@xiaomouz">Mastodon</a>
 
 ### 🔷My Stats
 
