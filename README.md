@@ -51,7 +51,7 @@
     </tr>
 </table>
 
-### 📕 Blog posts
+### 📕 Blog posts (Chinese Only)
 
 <!-- BLOG-POST-LIST:START -->
 - [🥅 Win UI 3 中获取用户的颜色模式（深浅色）](https://mouz.xyz/archives/381/)
