@@ -23,7 +23,7 @@
                         <p>🤝 I’m looking for help with <a href="https://github.com/BakaXL-Launcher/BakaXL">BakaXL</a></p>
                     </li>
                     <li>
-                        <p>📝 I regularly write articles on <a href="https://mouz.xyz">https://mouz.xyz</a></p>
+                        <p>📝 I regularly write articles on <a href="https://mou.best/blog">BLOG</a></p>
                     </li>
                     <li>
                         <p>💬 Ask me about <strong>Springboot, WinUI and WPF</strong></p>
