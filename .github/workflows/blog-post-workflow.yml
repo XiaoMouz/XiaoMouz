@@ -16,7 +16,7 @@ jobs:
       - name: Pull in blog.mou.best posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://blog.mou.best/index.php/feed/"
+          feed_list: "https://blog.mou.best/index.php/feed/"
           template: "$newline- [$randomEmoji(🥅,🔥,💫,🚀,⚡,📄,📌,✏️,📝,💥) $title]($url)"
           commit_message: 🚀This commit by GithubAction push
           committer_username: Github Action-XiaoMouz
